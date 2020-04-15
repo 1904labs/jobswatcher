@@ -1,0 +1,18 @@
+{"_id":{"$oid":"5971225d666d89a48e9a51e9"},"param":"a"}
+{"_id":{"$oid":"597658f4666d89a48e9a51eb"},"publisher":"6586127283101628"}
+{"_id":{"$oid":"5976590d666d89a48e9a51ec"},"v":"2"}
+{"_id":{"$oid":"5976591b666d89a48e9a51ed"},"format":"xml"}
+{"_id":{"$oid":"5976592e666d89a48e9a51ee"},"q":"html or java and software or javascript or scala or docker or kubernetes or linux or angular or node or react.js or redux.js or junit or aws or azure or cloud or microservices"}
+{"_id":{"$oid":"59765946666d89a48e9a51ef"},"l":"st. louis, mo"}
+{"_id":{"$oid":"59765962666d89a48e9a51f0"},"sort":"relevance"}
+{"_id":{"$oid":"59765973666d89a48e9a51f1"},"radius":"150"}
+{"_id":{"$oid":"597659c5666d89a48e9a51f2"},"st":"employer"}
+{"_id":{"$oid":"59765a1d666d89a48e9a51f3"},"jt":"fulltime"}
+{"_id":{"$oid":"59765af0666d89a48e9a51f4"},"fromage":"10"}
+{"_id":{"$oid":"59765b04666d89a48e9a51f5"},"highlight":"0"}
+{"_id":{"$oid":"59765b1d666d89a48e9a51f6"},"filter":"1"}
+{"_id":{"$oid":"59765b2c666d89a48e9a51f7"},"latlong":"1"}
+{"_id":{"$oid":"59765b40666d89a48e9a51f8"},"co":"us"}
+{"_id":{"$oid":"59765b5a666d89a48e9a51f9"},"chnl":""}
+{"_id":{"$oid":"59765b6e666d89a48e9a51fa"},"userip":"10.40.41.104"}
+{"_id":{"$oid":"59765b93666d89a48e9a51fb"},"useragent":"Chrome/xyz"}

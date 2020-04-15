@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+    <query>java+j2ee</query>
+    <location>st. louis,mo</location>
+    <dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>13</totalresults>
+    <start>1</start>
+    <end>13</end>
+    <radius>25</radius>
+    <pageNumber>0</pageNumber>
+    <results>
+                <result>
+                    <jobtitle>Java Developer</jobtitle>
+                    <company>Amiti Consulting</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Thu, 12 Feb 2015 17:38:02 GMT</date>
+                    <snippet>Java [J2EE, Groovy/Grails, Spring, Hibernate]. Please let me know if you would like to apply for the below position....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8f3c2cf78dbf5c4a&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>8f3c2cf78dbf5c4a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>4 days ago</formattedRelativeTime>
+                </result>
+                <result>
+                    <jobtitle>Consultant, Software Engineering, Mobile Digital Enablement Systems-2</jobtitle>
+                    <company>MasterCard</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>MasterCard</source>
+                    <date>Mon, 02 Feb 2015 18:59:22 GMT</date>
+                    <snippet>Java, J2EE, Java Messaging Service. Java Server Faces and Seam. Web technologies including HTML, XHTML, HTML 5, and Java....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=87a951b85a30dadb&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>87a951b85a30dadb</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>14 days ago</formattedRelativeTime>
+                </result>
+                <result>
+                    <jobtitle>Java developer</jobtitle>
+                    <company>Reliable software resources INC</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Thu, 12 Feb 2015 18:35:44 GMT</date>
+                    <snippet>Java [J2EE, Groovy/Grails, Spring, Hibernate]. This is Lakshmi from Reliable Software Resources Inc and I am writing to see whether you are interested in an...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=d6eca2c57f7fbfd3&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>d6eca2c57f7fbfd3</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>4 days ago</formattedRelativeTime>
+                </result>
+                <result>
+                    <jobtitle>Oracle BPM Developer</jobtitle>
+                    <company>sun technologies Inc</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>sun technologies Inc</source>
+                    <date>Sat, 07 Feb 2015 04:38:10 GMT</date>
+                    <snippet>Extensive Knowledge – Java, J2EE, MVC Concepts. Extensive Product Knowledge on Oracle Weblogic, Oracle BPM 11g/12c....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c6f3594e2eeb5eaa&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>c6f3594e2eeb5eaa</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>9 days ago</formattedRelativeTime>
+                </result>
+                <result>
+                    <jobtitle>Oracle BPM Developer</jobtitle>
+                    <company>Diverse Lynx</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>Diverse Lynx</source>
+                    <date>Sat, 07 Feb 2015 04:37:41 GMT</date>
+                    <snippet>Extensive Knowledge – Java, J2EE, MVC Concepts. Mandatory Technical/Functional skills:....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=9aeffa76f9789f26&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>9aeffa76f9789f26</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>9 days ago</formattedRelativeTime>
+                </result>
+                <result>
+                    <jobtitle>Oracle BPM Developer</jobtitle>
+                    <company>Axius Technologies Inc</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>Axius Technologies Inc</source>
+                    <date>Fri, 13 Feb 2015 04:37:35 GMT</date>
+                    <snippet>Extensive Knowledge – Java, J2EE, MVC Concepts. Java, J2EE, Oracle Web Logic, Oracle BPM 11g/12c. Extensive Product Knowledge on Oracle Weblogic, Oracle BPM 11g...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8057f767edc6c53a&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>8057f767edc6c53a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>3 days ago</formattedRelativeTime>
+                </result>
+                <result>
+                    <jobtitle>Oracle BPM Architect/Tech Lead</jobtitle>
+                    <company>Zentek Infosoft</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Thu, 22 Jan 2015 11:35:11 GMT</date>
+                    <snippet> Extensive Knowledge - Java, J2EE, Oracle Web Logic, Oracle BPM, MVC Concept. Hi,....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=1a9584dbe9641df4&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>1a9584dbe9641df4</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>25 days ago</formattedRelativeTime>
+                </result>
+                <result>
+                    <jobtitle>Oracle BPM Architect</jobtitle>
+                    <company>Axius Technologies Inc</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>Axius Technologies Inc</source>
+                    <date>Fri, 13 Feb 2015 04:37:35 GMT</date>
+                    <snippet>Extensive Knowledge - Java, J2EE, Oracle Web Logic, Oracle BPM, MVC Concept. Java, J2EE, Oracle Web Logic, Oracle BPM, Oracle FMW Stack, XML, XSD, Web....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=f95df78ad9910a8b&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>f95df78ad9910a8b</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>3 days ago</formattedRelativeTime>
+                </result>
+                <result>
+                    <jobtitle>Oracle BPM Architect/Tech Lead</jobtitle>
+                    <company>sun technologies Inc</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>sun technologies Inc</source>
+                    <date>Sat, 07 Feb 2015 04:38:07 GMT</date>
+                    <snippet>Extensive Knowledge - Java, J2EE, Oracle Web Logic, Oracle BPM, MVC Concept. Java, J2EE, Oracle Web Logic, Oracle BPM, Oracle FMW Stack, XML, XSD, Web....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=3dcfb28c4cd33118&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>3dcfb28c4cd33118</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>9 days ago</formattedRelativeTime>
+                </result>
+                <result>
+                    <jobtitle>Oracle BPM Developer</jobtitle>
+                    <company>Enterprise Solutions Inc.</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>Enterprise Solutions Inc.</source>
+                    <date>Mon, 09 Feb 2015 22:24:40 GMT</date>
+                    <snippet>Experience Required Extensive Knowledge Java, J2EE, MVC Concepts. Technical/Functional Skills Java, J2EE, Oracle Web Logic, Oracle BPM 11g/12c. St....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=16185ef20d773379&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>16185ef20d773379</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>7 days ago</formattedRelativeTime>
+                </result>
+                <result>
+                    <jobtitle>Oracle BPM Architect/Tech Lead</jobtitle>
+                    <company>Enterprise Solutions Inc.</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>Enterprise Solutions Inc.</source>
+                    <date>Tue, 27 Jan 2015 20:38:15 GMT</date>
+                    <snippet>Extensive Knowledge - Java, J2EE, Oracle Web Logic, Oracle BPM, MVC Concept. Java, J2EE, Oracle Web Logic, Oracle BPM, Oracle FMW Stack, XML, XSD, Web....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8a4945cb02c4d8e9&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>8a4945cb02c4d8e9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>20 days ago</formattedRelativeTime>
+                </result>
+                <result>
+                    <jobtitle>Oracle BPM Architect/Tech Lead</jobtitle>
+                    <company>Diverse Lynx</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>Diverse Lynx</source>
+                    <date>Sat, 07 Feb 2015 04:37:41 GMT</date>
+                    <snippet>Extensive Knowledge - Java, J2EE, Oracle Web Logic, Oracle BPM, MVC Concept. Mandatory Technical/Functional skills:....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=0fd7b342d3c0d2f1&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>0fd7b342d3c0d2f1</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>9 days ago</formattedRelativeTime>
+                </result>
+                <result>
+                    <jobtitle>Java Developer at St Louis, MO for Full Time or Right To Hire (Independent)</jobtitle>
+                    <company>Reliable Software Resources Inc</company>
+                    <city>St. Louis</city>
+                    <state>MO</state>
+                    <country>US</country>
+                    <formattedLocation>St. Louis, MO</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Wed, 11 Feb 2015 16:15:29 GMT</date>
+                    <snippet>Our client is interested in hiring a Java Developers who can use Java, Java. Java [J2EE, Groovy/Grails, Spring, Hibernate]....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=84808ae158ebb3aa&amp;qd=dALvOIm0yhdwYoX0YDgi8wz1rsbvVAgosOwv8gIgMG5yq35SvwmroSv1RYNTTDg6A6SVeAPyTAi7ivtlaUrNZQWMUQFjJuf0NeiWi5TIBKIep6I5-twM7jC8td-9rGTG&amp;indpubnum=6586127283101628&amp;chnl=jobwatch&amp;atk=19ea8e22a19rh2g7</url>
+                    <onmousedown>indeed_clk(this, &#039;2315&#039;);</onmousedown>
+                    <latitude>38.626373</latitude>
+                    <longitude>-90.1978</longitude>
+                    <jobkey>84808ae158ebb3aa</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>St. Louis, MO</formattedLocationFull>
+                    <formattedRelativeTime>5 days ago</formattedRelativeTime>
+                </result>
+    </results>
+</response>
+

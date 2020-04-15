@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<requests>
+	<jobrequest>
+	  <url>http://api.indeed.com/ads/apisearch</url>
+	  <publisher>6586127283101628</publisher>
+      <keywords>
+		<word>java</word>
+		<word>react</word>
+	  </keywords>
+	  <version>2</version>
+	  <format>xml</format>
+	  <location>st. louis, mo</location>
+	  <sort>relevance</sort>
+	  <radius>150</radius>
+	  <jobsite>employer</jobsite>
+	  <jobtype>fulltime</jobtype>
+	  <limit>25</limit>
+	  <fromage>10</fromage>
+	  <highlight>0</highlight>
+	  <filter>1</filter>
+	  <latlong>1</latlong>
+	  <co>us</co>
+	</jobrequest>
+</requests>
